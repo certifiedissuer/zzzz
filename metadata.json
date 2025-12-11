@@ -1,0 +1,17 @@
+{
+  "name": "QarZZZt",
+  "symbol": "QRZRZXK",
+  "description": "Fundamental unit; micro-payments and precision.",
+  "image": "https://raw.githubusercontent.com/certifiedissuer/zzzz/refs/heads/main/quark.png",
+  "external_url": "https://www.quark.com/",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/certifiedissuer/zzzz/refs/heads/main/quark.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "currency"
+  }
+}
